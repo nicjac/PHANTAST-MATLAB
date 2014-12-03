@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration target="target.mlapps" target-name="Package App" name="PHANTAST" location="D:\Dropbox\complex\phd\Code\MATLAB\PHANTAST\Source\MATLAB" file="D:\Dropbox\complex\phd\Code\MATLAB\PHANTAST\Source\MATLAB\PHANTAST.prj" build-checksum="3307877767">
+    <param.appname>PHANTAST</param.appname>
+    <param.authnamewatermark>Nicolas Jaccard</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.version>1.0</param.version>
+    <param.products.name>
+      <item>MATLAB</item>
+      <item>Image Processing Toolbox</item>
+    </param.products.name>
+    <param.products.id>
+      <item>-1</item>
+      <item>-1</item>
+    </param.products.id>
+    <param.products.version>
+      <item>8.0</item>
+      <item>8.1</item>
+    </param.products.version>
+    <param.platforms>
+      <item>win64</item>
+    </param.platforms>
+    <param.output>D:\Dropbox\complex\phd\Code\MATLAB\PHANTAST\PHANTAST.mlappinstall</param.output>
+    <param.guid>38a6a960-d0ea-4c48-aea6-daae7e47c680</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.summary />
+      <param.screenshot />
+      <param.version />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\PHANTAST.m</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Objects\StoredOperations\FunctionHandles\contrastStretching.m</file>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Operations\BIF\filterBIFs.m</file>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Operations\BIF\Test\computeBIFsTest.m</file>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Operations\BIF\Test\gaussiankernelCustom.m</file>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Operations\BIF\Test\gfilterCustom.m</file>
+      <file>D:\Dropbox\complex\phd\Code\MATLAB\Framework\Operations\bwmorph2.m</file>
+      <file>${PROJECT_ROOT}\GUI\ExploreResults.fig</file>
+      <file>${PROJECT_ROOT}\GUI\ExploreResults.m</file>
+      <file>${PROJECT_ROOT}\GUI\PHANTAST_MainGUI.fig</file>
+      <file>${PROJECT_ROOT}\GUI\PHANTAST_MainGUI.m</file>
+      <file>${PROJECT_ROOT}\GUI\PHANTAST_Settings.fig</file>
+      <file>${PROJECT_ROOT}\GUI\PHANTAST_Settings.m</file>
+      <file>${PROJECT_ROOT}\Processing\BinaryOperations\removeHoles.m</file>
+      <file>${PROJECT_ROOT}\Processing\BinaryOperations\removeSmallObjects.m</file>
+      <file>${PROJECT_ROOT}\Processing\computeConfluency.m</file>
+      <file>${PROJECT_ROOT}\Processing\gaussianFilter.m</file>
+      <file>${PROJECT_ROOT}\Processing\Halo Removal\removeHaloGradientCompass8Directions.m</file>
+      <file>${PROJECT_ROOT}\Processing\Halo Removal\shrinkRegion.mexw64</file>
+      <file>${PROJECT_ROOT}\Processing\localContrast.m</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\GUI\phantast.png</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file name="PHANTAST.mlappinstall" location="D:\Dropbox\complex\phd\Code\MATLAB\PHANTAST" optional="false">D:\Dropbox\complex\phd\Code\MATLAB\PHANTAST\PHANTAST.mlappinstall</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2012b</root>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.1</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
+
