@@ -25,7 +25,7 @@ Getting started
 More about PHANTAST
 -------------------
 
-![Example of PCM image segmentation using PHANTAST](https://github.com/nicjac/phantast/blob/gh-pages/images/Example.png)
+![alt text](https://github.com/nicjac/phantast/blob/gh-pages/images/Example.png "Example of PCM image segmentation using PHANTAST")
 
 Generating quantitative data from PCM images is generally a tedious experience. Manual processing is time-consuming and error-prone while the use of general purpose image processing software package can be frustrating due to their complexity and the need to tweak parameters.
 
