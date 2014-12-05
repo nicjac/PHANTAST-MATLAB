@@ -19,7 +19,6 @@ Getting started
     * Use the [issue page](https://github.com/nicjac/PHANTAST-MATLAB/issues) to report problems with the plugin
     * Head to the [getting in touch page](https://github.com/nicjac/PHANTAST-MATLAB/wiki/Getting-in-touch) for more traditional contact means  
   * PHANTAST is also available as a [plugin for the very popular FIJI/ImageJ biomedical image processing package](https://github.com/nicjac/PHANTAST-FIJI/).
-  * If MATLAB is more your thing (or if you are after a standalone GUI version of PHANTAST), you can have a look at [PHANTAST for MATLAB](https://github.com/nicjac/PHANTAST-MATLAB), which offers similar functionality to that of the FIJI plugin
   * If you use PHANTAST for your research, please consider [citing our papers](https://github.com/nicjac/PHANTAST-MATLAB/wiki/How-to-cite-PHANTAST)
 
 More about PHANTAST
