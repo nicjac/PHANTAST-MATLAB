@@ -5,6 +5,8 @@ The phase contrast microscopy segmentation toolbox (PHANTAST) is a collection of
 
 With the ultimate goal of being plateform agnostic, PHANTAST is currently available as a standalone GUI, MATLAB code, and FIJI plugin.
 
+**IMPORTANT: You are currently browsing the PHANTAST for MATLAB repository, which also hosts a standalone GUI application. If you are interested in the PHANTAST for FIJI/ImageJ plugin (offering similar functionality), please naviguate to the corresponding repository.**
+
 PHANTAST was first described in an [open-access paper](http://onlinelibrary.wiley.com/doi/10.1002/bit.25115/abstract) where it was used to non-invasively monitor proliferation, cell death, growth arrest and morphologyical changes in adherent cell cultures based on phase contrast microscopy images.
 
   * **Microscope users / researchers**: get the most of your phase contrast microscopy images and start generating quantitative data right away using our graphical user interface tool that does not require any image-processing knowledge
