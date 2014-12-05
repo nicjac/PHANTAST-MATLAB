@@ -1,6 +1,5 @@
 PHANTAST
 ========
-
 The phase contrast microscopy segmentation toolbox (PHANTAST) is a collection of open-source algorithms and tools for the processing of phase contrast microscopy (PCM) images. It was developed at [University College London](http://www.ucl.ac.uk)'s [department of Biochemical Engineering](http://www.ucl.ac.uk/biochemeng) and [CoMPLEX](http://www.ucl.ac.uk/complex).
 
 With the ultimate goal of being plateform agnostic, PHANTAST is currently available as a standalone GUI, MATLAB code, and FIJI plugin.
@@ -14,19 +13,17 @@ PHANTAST was first described in an [open-access paper](http://onlinelibrary.wile
 
 Getting started
 ---------------
-
-  * The [Downloads] pages contains the information you need to download the various implementations of PHANTAST.
-  * The wiki contains useful information about how to start generating quantitative data:
-    * [MATLAB] outlines how to get started with the MATLAB implementation (either using the command line or the graphical user interface)
-    * [FIJIPlugin] describes how to install and use the FIJI/ImageJ implementation of PHANTAST  
-  * Head to the [https://code.google.com/p/phantast/source/checkout Source] page to check out the source code of the various implementations
+  * Head to the [release page](https://github.com/nicjac/PHANTAST-MATLAB/releases) and download the latest release of the PHANTAST for MATLAB and the corresponding standalone GUI applications. Alternatively, you can checkout the code and use it directly from the command line or part of your scripts/functions.
+  * The wiki contains a [tutorial to get you started with PHANTAST for MATLAB](https://github.com/nicjac/PHANTAST-MATLAB/wiki/PHANTAST-for-MATLAB-tutorial)
   * You can get in touch with us through various means:
-    * Use the [https://code.google.com/p/phantast/issues/list issues] page
-    * Head to the [Contact contact us] page for more traditional contact means  
+    * Use the [issue page](https://github.com/nicjac/PHANTAST-MATLAB/issues) to report problems with the plugin
+    * Head to the [getting in touch page](https://github.com/nicjac/PHANTAST-MATLAB/wiki/Getting-in-touch) for more traditional contact means  
+  * PHANTAST is also available as a [plugin for the very popular FIJI/ImageJ biomedical image processing package](https://github.com/nicjac/PHANTAST-FIJI/).
+  * If MATLAB is more your thing (or if you are after a standalone GUI version of PHANTAST), you can have a look at [PHANTAST for MATLAB](https://github.com/nicjac/PHANTAST-MATLAB), which offers similar functionality to that of the FIJI plugin
+  * If you use PHANTAST for your research, please consider [citing our papers](https://github.com/nicjac/PHANTAST-MATLAB/wiki/How-to-cite-PHANTAST)
 
 More about PHANTAST
 -------------------
-
 ![alt text](https://github.com/nicjac/phantast/blob/gh-pages/images/Example.png "Example of PCM image segmentation using PHANTAST")
 
 Generating quantitative data from PCM images is generally a tedious experience. Manual processing is time-consuming and error-prone while the use of general purpose image processing software package can be frustrating due to their complexity and the need to tweak parameters.
