@@ -1,3 +1,13 @@
+# Looking for maintainer(s)!
+
+Hi everyone 👋
+
+Unfortunately, I haven't had time to look after this repository for a (long) while. However, based on citations and traffic to repositories, I see there is still interest in PHANTAST. If you would like to become a maintainer, please create an issue here on Github, or email me: hello [AT] nicjac [DOT] dev.
+
+I hope you find this code useful. Thanks!
+
+----------
+
 PHANTAST for MATLAB
 ========
 The phase contrast microscopy segmentation toolbox (PHANTAST) is a collection of open-source algorithms and tools for the processing of phase contrast microscopy (PCM) images. It was developed at [University College London](http://www.ucl.ac.uk)'s [department of Biochemical Engineering](http://www.ucl.ac.uk/biochemeng) and [CoMPLEX](http://www.ucl.ac.uk/complex).
